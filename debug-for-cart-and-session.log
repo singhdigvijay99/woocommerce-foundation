@@ -1,0 +1,188 @@
+[21-Apr-2026 11:37:30 UTC] [MERGE HOOK] woocommerce_load_cart_from_session fired
+[21-Apr-2026 11:37:30 UTC] [MERGE HOOK] customer_id = 1
+[21-Apr-2026 11:37:30 UTC] [MERGE HOOK] is_user_logged_in = true
+[21-Apr-2026 11:37:30 UTC] 
+============================================================
+[21-Apr-2026 11:37:30 UTC]   SESSION  [11:37:30] URL: /shop/
+[21-Apr-2026 11:37:30 UTC] ============================================================
+[21-Apr-2026 11:37:30 UTC] Customer ID : 1
+[21-Apr-2026 11:37:30 UTC] User type   : LOGGED IN (WP user ID)
+[21-Apr-2026 11:37:30 UTC] Cookie set  : YES
+[21-Apr-2026 11:37:30 UTC] Expires at  : 2026-04-28 06:17:35
+[21-Apr-2026 11:37:30 UTC] Payment     : cod
+[21-Apr-2026 11:37:30 UTC] Shipping    : not chosen
+[21-Apr-2026 11:37:30 UTC] Coupons     : none
+[21-Apr-2026 11:37:30 UTC] Billing     : d d
+[21-Apr-2026 11:37:30 UTC] B. Email    : dev-email@wpengine.local
+[21-Apr-2026 11:37:30 UTC] B. Country  : IN
+[21-Apr-2026 11:37:30 UTC] S. Country  : IN
+[21-Apr-2026 11:37:30 UTC] 
+------------------------------------------------------------
+[21-Apr-2026 11:37:30 UTC]   CART
+[21-Apr-2026 11:37:30 UTC] ------------------------------------------------------------
+[21-Apr-2026 11:37:30 UTC] [CART EMPTY]
+[21-Apr-2026 11:37:30 UTC] ============================================================
+
+[21-Apr-2026 11:38:26 UTC] [ADD TO CART] product_id=27 qty=1 key=02e74f10e0327ad868d138f2b4fdd6f0
+[21-Apr-2026 11:38:28 UTC] [MERGE HOOK] woocommerce_load_cart_from_session fired
+[21-Apr-2026 11:38:28 UTC] [MERGE HOOK] customer_id = 1
+[21-Apr-2026 11:38:28 UTC] [MERGE HOOK] is_user_logged_in = true
+[21-Apr-2026 11:38:28 UTC] 
+============================================================
+[21-Apr-2026 11:38:28 UTC]   SESSION  [11:38:28] URL: /cart/
+[21-Apr-2026 11:38:28 UTC] ============================================================
+[21-Apr-2026 11:38:28 UTC] Customer ID : 1
+[21-Apr-2026 11:38:28 UTC] User type   : LOGGED IN (WP user ID)
+[21-Apr-2026 11:38:28 UTC] Cookie set  : YES
+[21-Apr-2026 11:38:28 UTC] Expires at  : 2026-04-28 06:17:35
+[21-Apr-2026 11:38:28 UTC] Payment     : cod
+[21-Apr-2026 11:38:28 UTC] Shipping    : free_shipping:1
+[21-Apr-2026 11:38:28 UTC] Coupons     : none
+[21-Apr-2026 11:38:28 UTC] Billing     : d d
+[21-Apr-2026 11:38:28 UTC] B. Email    : dev-email@wpengine.local
+[21-Apr-2026 11:38:28 UTC] B. Country  : IN
+[21-Apr-2026 11:38:28 UTC] S. Country  : IN
+[21-Apr-2026 11:38:28 UTC] 
+------------------------------------------------------------
+[21-Apr-2026 11:38:28 UTC]   CART
+[21-Apr-2026 11:38:28 UTC] ------------------------------------------------------------
+[21-Apr-2026 11:38:28 UTC] Item count  : 1 units
+[21-Apr-2026 11:38:28 UTC] Subtotal    : 25
+[21-Apr-2026 11:38:28 UTC] Tax         : 
+[21-Apr-2026 11:38:28 UTC] Shipping    : 0
+[21-Apr-2026 11:38:28 UTC] Total       : 25.00
+[21-Apr-2026 11:38:28 UTC] Needs ship  : yes
+[21-Apr-2026 11:38:28 UTC] Needs pay   : yes
+[21-Apr-2026 11:38:28 UTC] 
+[21-Apr-2026 11:38:28 UTC]   ── Item: Jacket
+[21-Apr-2026 11:38:28 UTC]      cart_key     : 02e74f10e0327ad868d138f2b4fdd6f0
+[21-Apr-2026 11:38:28 UTC]      product_id   : 27
+[21-Apr-2026 11:38:28 UTC]      variation_id : n/a (simple)
+[21-Apr-2026 11:38:28 UTC]      quantity     : 1
+[21-Apr-2026 11:38:28 UTC]      product type : simple
+[21-Apr-2026 11:38:28 UTC]      product sku  : woo-fashion-jacket
+[21-Apr-2026 11:38:28 UTC]      stock status : instock
+[21-Apr-2026 11:38:28 UTC]      stock qty    : 
+[21-Apr-2026 11:38:28 UTC]      price each   : 25
+[21-Apr-2026 11:38:28 UTC]      line_subtotal: 25 (before discount)
+[21-Apr-2026 11:38:28 UTC]      line_total   : 25 (after discount)
+[21-Apr-2026 11:38:28 UTC]      line_tax     : 0
+[21-Apr-2026 11:38:28 UTC] ============================================================
+
+[21-Apr-2026 11:38:29 UTC] [MERGE HOOK] woocommerce_load_cart_from_session fired
+[21-Apr-2026 11:38:29 UTC] [MERGE HOOK] customer_id = 1
+[21-Apr-2026 11:38:29 UTC] [MERGE HOOK] is_user_logged_in = true
+[21-Apr-2026 11:38:29 UTC] 
+============================================================
+[21-Apr-2026 11:38:29 UTC]   SESSION  [11:38:29] URL: /checkout/
+[21-Apr-2026 11:38:29 UTC] ============================================================
+[21-Apr-2026 11:38:29 UTC] Customer ID : 1
+[21-Apr-2026 11:38:29 UTC] User type   : LOGGED IN (WP user ID)
+[21-Apr-2026 11:38:29 UTC] Cookie set  : YES
+[21-Apr-2026 11:38:29 UTC] Expires at  : 2026-04-28 06:17:35
+[21-Apr-2026 11:38:29 UTC] Payment     : cod
+[21-Apr-2026 11:38:29 UTC] Shipping    : free_shipping:1
+[21-Apr-2026 11:38:29 UTC] Coupons     : none
+[21-Apr-2026 11:38:29 UTC] Billing     : d d
+[21-Apr-2026 11:38:29 UTC] B. Email    : dev-email@wpengine.local
+[21-Apr-2026 11:38:29 UTC] B. Country  : IN
+[21-Apr-2026 11:38:29 UTC] S. Country  : IN
+[21-Apr-2026 11:38:29 UTC] 
+------------------------------------------------------------
+[21-Apr-2026 11:38:29 UTC]   CART
+[21-Apr-2026 11:38:29 UTC] ------------------------------------------------------------
+[21-Apr-2026 11:38:29 UTC] Item count  : 1 units
+[21-Apr-2026 11:38:29 UTC] Subtotal    : 25
+[21-Apr-2026 11:38:29 UTC] Tax         : 
+[21-Apr-2026 11:38:29 UTC] Shipping    : 0
+[21-Apr-2026 11:38:29 UTC] Total       : 25.00
+[21-Apr-2026 11:38:29 UTC] Needs ship  : yes
+[21-Apr-2026 11:38:29 UTC] Needs pay   : yes
+[21-Apr-2026 11:38:29 UTC] 
+[21-Apr-2026 11:38:29 UTC]   ── Item: Jacket
+[21-Apr-2026 11:38:29 UTC]      cart_key     : 02e74f10e0327ad868d138f2b4fdd6f0
+[21-Apr-2026 11:38:29 UTC]      product_id   : 27
+[21-Apr-2026 11:38:29 UTC]      variation_id : n/a (simple)
+[21-Apr-2026 11:38:29 UTC]      quantity     : 1
+[21-Apr-2026 11:38:29 UTC]      product type : simple
+[21-Apr-2026 11:38:29 UTC]      product sku  : woo-fashion-jacket
+[21-Apr-2026 11:38:29 UTC]      stock status : instock
+[21-Apr-2026 11:38:29 UTC]      stock qty    : 
+[21-Apr-2026 11:38:29 UTC]      price each   : 25
+[21-Apr-2026 11:38:29 UTC]      line_subtotal: 25 (before discount)
+[21-Apr-2026 11:38:29 UTC]      line_total   : 25 (after discount)
+[21-Apr-2026 11:38:29 UTC]      line_tax     : 0
+[21-Apr-2026 11:38:29 UTC] ============================================================
+
+[21-Apr-2026 11:38:48 UTC] [MERGE HOOK] woocommerce_load_cart_from_session fired
+[21-Apr-2026 11:38:48 UTC] [MERGE HOOK] customer_id = 1
+[21-Apr-2026 11:38:48 UTC] [MERGE HOOK] is_user_logged_in = true
+[21-Apr-2026 11:38:48 UTC] 
+============================================================
+[21-Apr-2026 11:38:48 UTC]   SESSION  [11:38:48] URL: /checkout/
+[21-Apr-2026 11:38:48 UTC] ============================================================
+[21-Apr-2026 11:38:48 UTC] Customer ID : 1
+[21-Apr-2026 11:38:48 UTC] User type   : LOGGED IN (WP user ID)
+[21-Apr-2026 11:38:48 UTC] Cookie set  : YES
+[21-Apr-2026 11:38:48 UTC] Expires at  : 2026-04-28 06:17:35
+[21-Apr-2026 11:38:48 UTC] Payment     : cod
+[21-Apr-2026 11:38:48 UTC] Shipping    : free_shipping:1
+[21-Apr-2026 11:38:48 UTC] Coupons     : none
+[21-Apr-2026 11:38:48 UTC] Billing     : d d
+[21-Apr-2026 11:38:48 UTC] B. Email    : dev-email@wpengine.local
+[21-Apr-2026 11:38:48 UTC] B. Country  : IN
+[21-Apr-2026 11:38:48 UTC] S. Country  : IN
+[21-Apr-2026 11:38:48 UTC] 
+------------------------------------------------------------
+[21-Apr-2026 11:38:48 UTC]   CART
+[21-Apr-2026 11:38:48 UTC] ------------------------------------------------------------
+[21-Apr-2026 11:38:48 UTC] Item count  : 1 units
+[21-Apr-2026 11:38:48 UTC] Subtotal    : 25
+[21-Apr-2026 11:38:48 UTC] Tax         : 
+[21-Apr-2026 11:38:48 UTC] Shipping    : 0
+[21-Apr-2026 11:38:48 UTC] Total       : 25.00
+[21-Apr-2026 11:38:48 UTC] Needs ship  : yes
+[21-Apr-2026 11:38:48 UTC] Needs pay   : yes
+[21-Apr-2026 11:38:48 UTC] 
+[21-Apr-2026 11:38:48 UTC]   ── Item: Jacket
+[21-Apr-2026 11:38:48 UTC]      cart_key     : 02e74f10e0327ad868d138f2b4fdd6f0
+[21-Apr-2026 11:38:48 UTC]      product_id   : 27
+[21-Apr-2026 11:38:48 UTC]      variation_id : n/a (simple)
+[21-Apr-2026 11:38:48 UTC]      quantity     : 1
+[21-Apr-2026 11:38:48 UTC]      product type : simple
+[21-Apr-2026 11:38:48 UTC]      product sku  : woo-fashion-jacket
+[21-Apr-2026 11:38:48 UTC]      stock status : instock
+[21-Apr-2026 11:38:48 UTC]      stock qty    : 
+[21-Apr-2026 11:38:48 UTC]      price each   : 25
+[21-Apr-2026 11:38:48 UTC]      line_subtotal: 25 (before discount)
+[21-Apr-2026 11:38:48 UTC]      line_total   : 25 (after discount)
+[21-Apr-2026 11:38:48 UTC]      line_tax     : 0
+[21-Apr-2026 11:38:48 UTC] ============================================================
+
+[21-Apr-2026 11:39:00 UTC] [CART EMPTIED] cart was cleared
+[21-Apr-2026 11:39:00 UTC] [MERGE HOOK] woocommerce_load_cart_from_session fired
+[21-Apr-2026 11:39:00 UTC] [MERGE HOOK] customer_id = 1
+[21-Apr-2026 11:39:00 UTC] [MERGE HOOK] is_user_logged_in = true
+[21-Apr-2026 11:39:00 UTC] 
+============================================================
+[21-Apr-2026 11:39:00 UTC]   SESSION  [11:39:00] URL: /checkout/order-received/66/?key=wc_order_qCaJhlCpEuiYf
+[21-Apr-2026 11:39:00 UTC] ============================================================
+[21-Apr-2026 11:39:00 UTC] Customer ID : 1
+[21-Apr-2026 11:39:00 UTC] User type   : LOGGED IN (WP user ID)
+[21-Apr-2026 11:39:00 UTC] Cookie set  : YES
+[21-Apr-2026 11:39:00 UTC] Expires at  : 2026-04-28 06:17:35
+[21-Apr-2026 11:39:00 UTC] Payment     : cod
+[21-Apr-2026 11:39:00 UTC] Shipping    : not chosen
+[21-Apr-2026 11:39:00 UTC] Coupons     : none
+[21-Apr-2026 11:39:00 UTC] Billing     : d d
+[21-Apr-2026 11:39:00 UTC] B. Email    : dev-email@wpengine.local
+[21-Apr-2026 11:39:00 UTC] B. Country  : IN
+[21-Apr-2026 11:39:00 UTC] S. Country  : IN
+[21-Apr-2026 11:39:00 UTC] 
+------------------------------------------------------------
+[21-Apr-2026 11:39:00 UTC]   CART
+[21-Apr-2026 11:39:00 UTC] ------------------------------------------------------------
+[21-Apr-2026 11:39:00 UTC] [CART EMPTY]
+[21-Apr-2026 11:39:00 UTC] ============================================================
+
+[21-Apr-2026 11:39:00 UTC] [CART EMPTIED] cart was cleared
